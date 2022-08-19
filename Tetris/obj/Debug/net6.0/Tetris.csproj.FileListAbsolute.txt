@@ -1,0 +1,30 @@
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.exe
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.deps.json
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.runtimeconfig.json
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.dll
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\bin\Debug\net6.0\Tetris.pdb
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.csproj.AssemblyReference.cache
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfoInputs.cache
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfo.cs
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.csproj.CoreCompileInputs.cache
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.dll
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\refint\Tetris.dll
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.pdb
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\Tetris.genruntimeconfig.cache
+C:\Учеба\Самостоятельно\Tetris\Tetris\Tetris\obj\Debug\net6.0\ref\Tetris.dll
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\bin\Debug\net6.0\Tetris.exe
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\bin\Debug\net6.0\Tetris.deps.json
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\bin\Debug\net6.0\Tetris.runtimeconfig.json
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\bin\Debug\net6.0\Tetris.dll
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\bin\Debug\net6.0\Tetris.pdb
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\Tetris.csproj.AssemblyReference.cache
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfoInputs.cache
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfo.cs
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\Tetris.csproj.CoreCompileInputs.cache
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\Tetris.dll
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\refint\Tetris.dll
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\Tetris.pdb
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\Tetris.genruntimeconfig.cache
+C:\Учеба\Самостоятельно\Tetris\Tetris 2.0\Tetris\obj\Debug\net6.0\ref\Tetris.dll
