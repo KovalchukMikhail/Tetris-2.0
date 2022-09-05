@@ -43,6 +43,7 @@ Console.Write($"=>");
 
 while (true)
 {
+    
     ConsoleKey enter = Console.ReadKey(true).Key;
     Thread.Sleep(100);
     if (enter == ConsoleKey.DownArrow)
@@ -73,6 +74,7 @@ if (position == 25) interval = 700;
 if (position == 27) interval = 550;
 if (position == 29) interval = 400;
 Console.Clear(); // очистка всего экрана
+int levelGame = 0; // переменная создана для изменения сложности во время игры
 
 
 
@@ -80,7 +82,6 @@ Console.Clear(); // очистка всего экрана
 while (true) // на данный момент игра продолжается бесконечно, условий для завершения игры нет
 {
     // ниже прописано увеличение сложности в зависимости от количества очков
-    int levelGame = 0;
     if (score == 40 && levelGame == 0)
     {
         interval -= 30;
